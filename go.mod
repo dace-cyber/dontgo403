@@ -1,4 +1,4 @@
-module dontgo403
+module github.com/dace-cyber/dontgo403
 
 go 1.16
 
